@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.write.titleFrame {
+	 width: 70%;
+}
+.titleFrame.title {
+    width: 60%;
+    float: left;
+}
+
+.subtitle {
+    float: left;
+    margin: 0px 10px 0px 10px;
+}
