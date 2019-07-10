@@ -6,7 +6,7 @@
 <!-- 별명 및 쪽지 -->
 <div class="nickname-container">
 	<div class="user-nickname">
-		<div class="nickname">스타벅스 님</div>
+		<div class="nickname">스타벅스 1님</div>
 		<div class="alert">
 			쪽지 <a href="">1통</a>
 			<!-- 확인 안 한 갯수만큼 표시됨 -->
